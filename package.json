@@ -1,0 +1,22 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "learning again",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeru07/Namste-React.git"
+  },
+  "author": "veeresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veeru07/Namste-React/issues"
+  },
+  "homepage": "https://github.com/veeru07/Namste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
